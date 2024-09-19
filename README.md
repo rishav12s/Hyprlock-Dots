@@ -37,13 +37,33 @@ Description: This layout showcases a clock display with a custom background and 
 ![Layout 7](https://raw.githubusercontent.com/mahaveergurjar/Hyprlock-Dots/main/screenshots/layout7.png)
 Description: This layout features a clock display with a background image and a weather widget.
 
+## Layout 7
+
+![Layout 7](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout8.jpg)
+Description: This layout is a combination of layout 1 with layout 2 widgets
+
+## Layout 9
+
+![Layout 9](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout9.jpg)
+Description: This layout has stylish date and clock along with battery widget
+
+## Layout 10
+
+![Layout 10](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout10.png)
+Description: This layout is inspired from MacOS and uses Apple's SF font
+
+## Layout 11
+
+![Layout 11](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout11.png)
+Description: This layout has pngs to make it look unique and cool
+
 ...
 
 ## Installation and Usage
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/mahaveergurjar/hyprlock-Dots.git
+    git clone https://github.com/rishav12s/hyprlock-Dots.git
     ```
 2. Copy the configuration files to your Hyprlock directory:
     ```bash

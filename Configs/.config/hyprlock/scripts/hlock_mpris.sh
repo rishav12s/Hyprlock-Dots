@@ -5,7 +5,7 @@ THUMB_BLURRED=/tmp/hyde-mpris-blurred
 THUMB_RECTANGLE=/tmp/blurred_rectangle.png
 
 fetch_thumb() {
-  artUrl=$(playerctl -p spotify metadata --format '{{mpris:artUrl}}') 
+  artUrl=$(playerctl -p spotify metadata --format '{{mpris:artUrl}}')
   [[ "${artUrl}" = "$(cat "${THUMB}.inf")" ]] && return 0
 
   printf "%s\n" "$artUrl" > "${THUMB}.inf"

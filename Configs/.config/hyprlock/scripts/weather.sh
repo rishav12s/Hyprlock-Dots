@@ -10,7 +10,7 @@ fi
 last_modified=$(stat -c %Y "$cache_file")
 current_date=$(date +%s)
 time_diff=$((current_date - last_modified))
-expiry_time=86400
+expiry_time=3600
 cached_data=$(<"$cache_file")
 
 if [ $time_diff -lt $expiry_time ] && [ -n "$cached_data" ]; then
