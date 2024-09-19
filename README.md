@@ -77,7 +77,11 @@ Description: This layout has pngs to make it look unique and cool
     ```bash
     cp -r Hyprlock-Dots/Fonts/* ~/.local/share/fonts/
     ```
-4. Add Hyprlock to your hyprland keybings and wlogout menu :
+4. Make the scripts executable :
+    ```bash
+    chmod +x ~/.config/hyprlock/scripts/*
+    ```
+5. Add Hyprlock to your hyprland keybings and wlogout menu :
     ```bash
     bindl = $mainMod, L, exec, hyprlock #launch hyprlock
     ```
