@@ -71,15 +71,15 @@ Description: This layout has pngs to make it look unique and cool
     ```
 2. Copy the configuration files to your Hyprlock directory:
     ```bash
-    cp -r hyprlock-config/* ~/.config/hyprlock/
+    cp -r Hyprlock-Dots/Configs/.config/* ~/.config/
     ```
-3. Copy the `hyprlock.conf` file to the Hypr configuration directory:
+3. Copy the fonts folder to fonts directory :
     ```bash
-    cp hyprlock.conf ~/.config/hypr/
+    cp -r Hyprlock-Dots/Fonts/* ~/.local/share/fonts/
     ```
-4. Restart Hyprlock to apply the changes:
+4. Add Hyprlock to your hyprland keybings and wlogout menu :
     ```bash
-    hyprlock --reload
+    bindl = $mainMod, L, exec, hyprlock #launch hyprlock
     ```
 
 ## Customization
