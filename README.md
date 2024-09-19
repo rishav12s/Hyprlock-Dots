@@ -1,5 +1,9 @@
-# Hyprlock Configuration
+###### *<div align = right><sub>// design by t2</sub></div>*
+<div align = center>
+<img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png">
+<br><br></div>
 
+## Hyprlock Configuration
 This repository contains the Hyprlock configuration files and layout settings. Below are the different layouts with their respective screenshots and descriptions.
 
 ## Layout 1
@@ -63,7 +67,7 @@ Description: This layout has pngs to make it look unique and cool
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/rishav12s/hyprlock-Dots.git
+    git clone https://github.com/rishav12s/Hyprlock-Dots.git
     ```
 2. Copy the configuration files to your Hyprlock directory:
     ```bash
