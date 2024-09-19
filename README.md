@@ -41,9 +41,9 @@ Description: This layout showcases a clock display with a custom background and 
 ![Layout 7](https://raw.githubusercontent.com/mahaveergurjar/Hyprlock-Dots/main/screenshots/layout7.png)
 Description: This layout features a clock display with a background image and a weather widget.
 
-## Layout 7
+## Layout 8
 
-![Layout 7](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout8.jpg)
+![Layout 8](https://raw.githubusercontent.com/rishav12s/Hyprlock-Dots/main/screenshots/layout8.jpg)
 Description: This layout is a combination of layout 1 with layout 2 widgets
 
 ## Layout 9
